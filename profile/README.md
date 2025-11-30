@@ -6,6 +6,6 @@
 
 <div align="center">
  
-![240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58](https://github.com/user-attachments/assets/f8836c0b-25a8-4f92-b11d-c8f05bf198bc)
+<img width="867" height="287" alt="Gemini_Generated_Image_4x9mh24x9mh24x9m (2)" src="https://github.com/user-attachments/assets/632de1c0-0c87-430e-b226-4bdf1e102aed" />
 
 </div>
